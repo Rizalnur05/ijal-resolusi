@@ -6,3 +6,4 @@ RENCANA BARU
 -Fundamental data dasar
 -Php Frameworks
 -Python
+-React JS

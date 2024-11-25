@@ -1,8 +1,9 @@
 RENCANA BARU
 -Javascript
  -ES6
+ -view
+   -Laravvel
 -Fundamental data dasar
 -Php Frameworks
--Algoritma
--C++
--HTML
+-Python
+-React JS

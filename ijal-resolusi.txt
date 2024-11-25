@@ -1,5 +1,6 @@
 Ijal Resolusi
 -Konsisten membuat program 3x seminggu
 -Membuat forum diskusi
+-Membuat program yang berguna 
 -Kedepannya semoga saya bisa menjadi full stack developer
 -Berkolaborasi dengan microsoft

@@ -1,3 +1,4 @@
 RENCANA BARU
 -Javascript
-Php Frameworks
+ -ES6
+-Php Frameworks

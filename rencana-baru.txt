@@ -1,4 +1,5 @@
 RENCANA BARU
 -Javascript
  -ES6
+-Fundamental data dasar
 -Php Frameworks

@@ -3,3 +3,6 @@ RENCANA BARU
  -ES6
 -Fundamental data dasar
 -Php Frameworks
+-Algoritma
+-C++
+-HTML
